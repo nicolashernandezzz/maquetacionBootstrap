@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    padding: 2em;
+}
+h1 {
+    color: white;
+}
+
+.row {
+    padding: 1rem;
+}
+
+.barra {
+    background-color: coral;
+}
+
+.cajaBorde {
+    border-style: solid;
+    border-color: darkblue;
+    height: 60vh;
+}
+
+.logo1 {
+    background-position: center;
+    padding: 10px;
+    text-align: center;
+}
